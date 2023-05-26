@@ -25,5 +25,5 @@ recommendations or promotional efforts.
 
 
 DELIVERABLES :1) An optimized solution for market basket analysis and product assortment optimization.
-              2)Insights and recommendations for improving promotional strategies and customer exprience.
+              2)Insights and recommendations for improving promotional strategies and customer experience.
 
