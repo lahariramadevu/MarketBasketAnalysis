@@ -1,4 +1,6 @@
 # Market Basket Analysis using apriori algorithm
+TABLE OF CONTENTS : 1)Thesis title 2)Datasets used 3)Algorithms used 4)Key objectives 5)Deliverables
+
 THESIS TITLE : Market basket analysis using apriori algorithm
 
 DATASETS USED : Market basket optimization
@@ -8,9 +10,7 @@ dicovers association rules of transactional data.Overall, market basket analysis
 behaviour,optimize product offerings,and improve all business performance.By harnessing the potential of advanced analytics and data mining techniques,retailers
 can enhance customer experiences,boost sales,and stay competitive in today's rapidly evolving market landscape.
 
-
 ALGORITHMS USED : Apriori
-
 
 KEY OBJECTIVES :1) Analyze transactional data-
 The project will proccess large-scale transactional data to identify patterns and association between items purchased by customers.
